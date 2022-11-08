@@ -1,0 +1,7 @@
+Cara instal
+
+- ubah NODE_ENV di env dari (development) => (production)
+
+- jalankan npm start
+
+- jalankan npm run build di folder frontend

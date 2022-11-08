@@ -37,4 +37,4 @@ function GoalForm() {
   )
 }
 
-export default GoalForm
+export default GoalForm;

@@ -15,4 +15,4 @@ function GoalItem({ goal }) {
   )
 }
 
-export default GoalItem
+export default GoalItem;
