@@ -21,6 +21,8 @@ npm install
 
 ```
 
+npm start in folder your project
+
 change env from development to production
 ...
 
